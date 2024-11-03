@@ -1,0 +1,85 @@
+81a97f29ce3d5db3422e7dd662e266d4ffa0bf10
+cfd000975ea4faa56912e394b79a3e20f6dd7f3e
+2c75c004d7ce604684bc89a0a316a763e02edf46 
+6828b3fbce39b42e7a44bd59166b16c46191cfaf 
+4bf2135aa985bbd805accf7d686f55dc291894a7 .DS_Store
+a67dcf6bce357003cdd7b8f03c361db0ec048d55 .gitattributes
+c24ddfeecad51b561fe03a55a7b8d810368c612d app.py
+523b0fae378162b7c7cf70616c535fb5f13c49f4 data
+dcf671329ea238b76d139aa8e0cadcec027d3244 data/Copy of 11 Steps To Survival - Canada Emergency Measures Organization.pdf
+e0be4650014f60f3115848c7247e9198d1dda7dc data/Copy of 65. Home Remedies by Wilson Family Homestead.pdf
+5e6668949ed47563f5c75913a72dfae75d2f4a7b data/Copy of Are You Ready for Fire_.pdf
+22d7a0ff4db78cff8150d39febd6d82f85b9a0e9 data/Copy of Are You Ready_.pdf
+5e5aa009ebf92340c8837818d8cbf3875aaaa841 data/Copy of Disaster Communications.pdf
+980b2a1ab1be086dbc6b660c12c2d29c899da0cf data/Copy of Disaster Supplies Checklists.pdf
+127480ee76ec32eeb2745ad1870d87f349989f0f data/Copy of Disaster Supply Kit.pdf
+dd51218da2b3ed32df05bed8a78771d1b9b45693 data/Copy of Earthquake Preparedness.pdf
+130d1fa172b08be42ae56969985800972a01b831 data/Copy of Earthquakes.pdf
+593e284a33c744d0aef3e189bcff5d87c2e22d62 data/Copy of Emergency Food For Babies.pdf
+f6df1fff2cc2aea1299eec2fc38729ee54ac7dbb data/Copy of Emergency Food Preparation.pdf
+eb87f201b050015d09d8833f740f261c4c15c9ec data/Copy of Emergency Plan.pdf
+8214927e92f7659d5995520e441458cbe970c4ce data/Copy of Emergency Preparedness for Childbirth.pdf
+59675cadef5551b8640e305cd087c087f56a6f8e data/Copy of FEMA Emergency Supplies Checklist.pdf
+f8b0ad0a546fefe9cff48ba4cfb25a5b2465f5c3 data/Copy of FEMA Facts on House and Building Fires.pdf
+6e84b62be5748a13afa8b6505d4d2616af0071ae data/Copy of FEMA Facts on Hurricanes.pdf
+7de33bb452f0a06661b7b77e75a68d8579c4d6cf data/Copy of FEMA Family Supply List.pdf
+72e65e9673c4c2f59c7a71333fa1fe8f1da3e17b data/Copy of Family Communications Plan.pdf
+726bb300fe934df35e1943160d989ace2952030a data/Copy of Family Emergency Handbook.pdf
+9f7f0fd2e0304e3682dd22511d4a5d8cebb64919 data/Copy of Family Food Storage.pdf
+17ef4d6cb62afe771453b96f975434cf8c70dae8 data/Copy of Family Preparedness Handbook.pdf
+1d626d826d1e7aa45f20ff51773643a93e8f5f14 data/Copy of Fighting Fire .pdf
+8679a68f5ac196ef5977c4b6dbe6f7f70c34d875 data/Copy of Fire Safety.pdf
+ff78391875b782fd207e673dafd9505d85cbfe94 data/Copy of Flood Preparation.pdf
+c3f5e29fc3fc1259ae60a587934f63744bc3bbf1 data/Copy of Food Storage for Survival.pdf
+2845a6cfa50660b004e4606ce86dd88cba49611a data/Copy of Food and Water in an Emergency.pdf
+a4c580bf9e906dcc9044d7545c813e75494307da data/Copy of Food storage Shopping List.pdf
+fb5c88903f1a9b58783cfb30f3f648fab14e79c8 data/Copy of Freezer Bag Meals.pdf
+544f0a6079504f91e5f177aef46e104b41caa16a data/Copy of General Disaster Handbook.pdf
+e3fbf1a4fa93b89921d8569dc03140cd524d6517 data/Copy of Getting Started in Solar.pdf
+9bce6ae35f100bf9b390d522cc8fdd7224b18665 finetune_gpt2.py
+9a4866b4f87295090b29a515d6ef1588a48800b6 gpt2-finetuned-emergency
+2a53e2e26ea81f1c09364abfbe11e144a08712d4 gpt2-finetuned-emergency/.DS_Store
+27ecfccf0cad387ac4b8bc2771d5b65dfeb42dba gpt2-finetuned-emergency/checkpoint-18
+0712421a861509278f4071eeb3cd1aacd4449a56 gpt2-finetuned-emergency/checkpoint-18/.DS_Store
+0661b900cdcdc1a887d227b23eb06bf18b3db109 gpt2-finetuned-emergency/checkpoint-18/config.json
+0bee71d706688ed23962ae98dcaed19cd0c0c23a gpt2-finetuned-emergency/checkpoint-18/generation_config.json
+226b0752cac7789c48f0cb3ec53eda48b7be36cc gpt2-finetuned-emergency/checkpoint-18/merges.txt
+981a9204f77a89fd96a5a344303d490578fd4b84 gpt2-finetuned-emergency/checkpoint-18/model.safetensors
+62649ce9e7f81879042fd1ca354e6935eaeb85f0 gpt2-finetuned-emergency/checkpoint-18/optimizer.pt
+cc9137415dc868232b01ff5952ea7d7ff55c10dd gpt2-finetuned-emergency/checkpoint-18/rng_state.pth
+dcbdc4a8539b528d3e47ff9a0a81c5ada8bac248 gpt2-finetuned-emergency/checkpoint-18/scheduler.pt
+b2d2dbc845800c78fe98656af927d831ab4ff7b7 gpt2-finetuned-emergency/checkpoint-18/special_tokens_map.json
+98dc17849c36836bf1f671068b4c9a8833acb282 gpt2-finetuned-emergency/checkpoint-18/tokenizer_config.json
+4f360d8c09bd914bd3412a205576dab4e4392d46 gpt2-finetuned-emergency/checkpoint-18/trainer_state.json
+95098ee955a3eb1dd57043049257575bfccfec55 gpt2-finetuned-emergency/checkpoint-18/training_args.bin
+a15dd0028acd1dd2c1c2394c80e1de8f3f12a0e4 gpt2-finetuned-emergency/checkpoint-18/vocab.json
+5c58ebd55e313149dc6cb9e944068bb57b64557c gpt2-finetuned-emergency/runs
+7818211b23a889d06198407a5df7e4af256d6bd5 gpt2-finetuned-emergency/runs/.DS_Store
+596d3835174e8f783fd0c4099b32255e6ea931eb gpt2-finetuned-emergency/runs/Nov02_20-28-17_Yanalas-MacBook-Air.local
+05cc968b006385fea455c622beb34224b8982455 gpt2-finetuned-emergency/runs/Nov02_20-28-17_Yanalas-MacBook-Air.local/events.out.tfevents.1730559498.Yanalas-MacBook-Air.local.28969.0
+a119efc2983cb11eb6e536de1316d3d982ee3e60 gpt2-finetuned-emergency/runs/Nov02_20-31-28_Yanalas-MacBook-Air.local
+8421d72afd7bdecb83b899d18d293442344d8bac gpt2-finetuned-emergency/runs/Nov02_20-31-28_Yanalas-MacBook-Air.local/events.out.tfevents.1730559689.Yanalas-MacBook-Air.local.28998.0
+681f5135cbc26ee0f5fbc110238d621a883c86b4 gpt2-finetuned-emergency/runs/Nov02_20-33-33_Yanalas-MacBook-Air.local
+252893411e2ef45ad9cc2b44f81b4d7ca6b4fc0e gpt2-finetuned-emergency/runs/Nov02_20-33-33_Yanalas-MacBook-Air.local/events.out.tfevents.1730559814.Yanalas-MacBook-Air.local.29012.0
+1460ffa0ff62bb80ce7aa9c4123a76452f739a92 gpt2-finetuned-emergency/runs/Nov02_20-48-33_Yanalas-MacBook-Air.local
+b4b714c4adc761a4cf6192f5d3d1a4c60af92258 gpt2-finetuned-emergency/runs/Nov02_20-48-33_Yanalas-MacBook-Air.local/events.out.tfevents.1730560714.Yanalas-MacBook-Air.local.29365.0
+7f2c96375c603c81b56b69e3e762965053e62b16 gpt2-finetuned-emergency/runs/Nov02_20-57-15_Yanalas-MacBook-Air.local
+6b2fd886cda5cb7b4d4cc871c379af719a000228 gpt2-finetuned-emergency/runs/Nov02_20-57-15_Yanalas-MacBook-Air.local/events.out.tfevents.1730561236.Yanalas-MacBook-Air.local.29575.0
+c9afdce5ef8b85675a3f71307ea66fac98343b3f gpt2-finetuned-emergency/runs/Nov03_01-01-22_Yanalas-MacBook-Air.local
+8df67d7ec8a9b27514e23a35848f6fee7a96cf19 gpt2-finetuned-emergency/runs/Nov03_01-01-22_Yanalas-MacBook-Air.local/events.out.tfevents.1730575884.Yanalas-MacBook-Air.local.37416.0
+89c5bb8fd9bc0ab1674acec1740b064146dc1d21 gpt2-finetuned-emergency/runs/Nov03_01-09-12_Yanalas-MacBook-Air.local
+b419cf63d22ec662e79a021e18c4fc7b66b56fd3 gpt2-finetuned-emergency/runs/Nov03_01-09-12_Yanalas-MacBook-Air.local/events.out.tfevents.1730576353.Yanalas-MacBook-Air.local.37463.0
+7869d9fb918a527afbe5fdd50693c4d1b3f04ec2 gpt2-finetuned-emergency/runs/Nov03_01-11-37_Yanalas-MacBook-Air.local
+3712fb90a496e2ece01c8653d47807b604d45f50 gpt2-finetuned-emergency/runs/Nov03_01-11-37_Yanalas-MacBook-Air.local/events.out.tfevents.1730576499.Yanalas-MacBook-Air.local.37480.0
+1650506f1a73180d3435f17b8011fa3100862197 gpt2-finetuned-emergency/runs/Nov03_01-17-52_Yanalas-MacBook-Air.local
+cb307da3cd9bafffb034fcc0dfaa339181a333e6 gpt2-finetuned-emergency/runs/Nov03_01-17-52_Yanalas-MacBook-Air.local/events.out.tfevents.1730576873.Yanalas-MacBook-Air.local.37580.0
+1d59be8460f227329d8aad433b5aff0f29b19f92 gpt2-finetuned-emergency/runs/Nov03_01-21-36_Yanalas-MacBook-Air.local
+56d5fde745033aebb9d6bd49d7d1a69c74a92524 gpt2-finetuned-emergency/runs/Nov03_01-21-36_Yanalas-MacBook-Air.local/events.out.tfevents.1730577098.Yanalas-MacBook-Air.local.37603.0
+82c01241f6101e55abdc0a5266cb951ba1051427 gpt2-finetuned-emergency/runs/Nov03_01-32-22_Yanalas-MacBook-Air.local
+3d95b7f07d36e9938cf5a4d3a100e8f7a4e556b8 gpt2-finetuned-emergency/runs/Nov03_01-32-22_Yanalas-MacBook-Air.local/events.out.tfevents.1730577743.Yanalas-MacBook-Air.local.37819.0
+dfba5fd1eece2fddac79828c71f7998adc9da20b gpt2-finetuned-emergency/runs/Nov03_01-35-07_Yanalas-MacBook-Air.local
+822b200cc7c3e5845fa49f76d4d748b03c640556 gpt2-finetuned-emergency/runs/Nov03_01-35-07_Yanalas-MacBook-Air.local/events.out.tfevents.1730577908.Yanalas-MacBook-Air.local.37846.0
+492b602220adf850313bfca22756ff8df7db7781 gpt2-finetuned-emergency/runs/Nov03_01-38-49_Yanalas-MacBook-Air.local
+9c650cda249ea35cfc0ebfcea3f67bd4d98cf0b0 gpt2-finetuned-emergency/runs/Nov03_01-38-49_Yanalas-MacBook-Air.local/events.out.tfevents.1730578131.Yanalas-MacBook-Air.local.37916.0
+4c0cb37a6dee1540807cbc69fcc1038b5e0b63be gpt2-finetuned-emergency/runs/Nov03_01-39-41_Yanalas-MacBook-Air.local
+001657f65f5ddb933019593bad5893c33dff5297 gpt2-finetuned-emergency/runs/Nov03_01-39-41_Yanalas-MacBook-Air.local/events.out.tfevents.1730578182.Yanalas-MacBook-Air.local.37933.0
