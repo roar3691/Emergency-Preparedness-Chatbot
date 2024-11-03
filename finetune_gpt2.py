@@ -4,20 +4,28 @@ import pdfplumber
 from datasets import Dataset
 from transformers import GPT2Tokenizer, GPT2LMHeadModel, Trainer, TrainingArguments
 
-# Path to your dataset directory
-dataset_path = '/Users/yanalaraghuvamshireddy/Downloads/Dataset-2'
+# Generalized path to your dataset directory (update this path as needed)
+dataset_path = 'data/Dataset-2'
 
-# Path to save and load checkpoints
-checkpoint_dir = '/Users/yanalaraghuvamshireddy/emergency_chatbot/gpt2-finetuned-emergency/checkpoint-18'
+# Generalized path to save and load checkpoints (update this path as needed)
+checkpoint_dir = 'gpt2-finetuned-emergency/checkpoint-18'
 
-# Function to extract text from PDF files
 def extract_text_from_pdfs(directory):
+    """
+    Extract text from all PDF files in the given directory.
+    
+    Args:
+        directory (str): The path to the directory containing PDF files.
+        
+    Returns:
+        list: A list of strings where each string contains the extracted text from a PDF.
+    """
     texts = []
     for filename in os.listdir(directory):
         if filename.endswith(".pdf"):
             file_path = os.path.join(directory, filename)
             with pdfplumber.open(file_path) as pdf:
-                # Extract text from all pages of the PDF
+                # Extract text from all pages of the PDF and combine them into one string
                 full_text = ''.join([page.extract_text() for page in pdf.pages])
                 texts.append(full_text)
     return texts
@@ -39,6 +47,15 @@ tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
 tokenizer.pad_token = tokenizer.eos_token
 
 def tokenize_function(examples):
+    """
+    Tokenize the input text data using GPT-2 tokenizer.
+    
+    Args:
+        examples (dict): A dictionary containing the input text data.
+        
+    Returns:
+        dict: A dictionary containing tokenized input data and labels.
+    """
     inputs = tokenizer(examples['text'], padding='max_length', truncation=True)
     inputs["labels"] = inputs["input_ids"].copy()  # Set labels as input_ids for autoregressive training
     return inputs
